@@ -1,6 +1,6 @@
 ---
 name: configuration
-description: Manage LeaseDrop frontend configuration using the repository's Vite mode, environment variable, Axios, proxy, and deployment conventions.
+description: Manage frontend configuration using the repository's Vite mode, environment variable, Axios, proxy, and deployment conventions.
 ---
 
 # Configuration
